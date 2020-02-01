@@ -1,0 +1,28 @@
+div{
+ text-align:center;
+ width:600px;
+ overflow:hidden;
+ border:2px dashed black;
+ border-radius:10px;
+ background:pink;
+}
+img{
+  width:250px;
+  border: 3px solid black;
+  padding: 15px;
+  margin:15px;
+  background:#FFE4E1;
+}
+h1{
+  font-family:Impact;
+  text-decoration:underline overline;
+  font-size:24pt;
+}
+h3{
+  text-decoration:underline;
+  font-size:14pt;
+  color: black;
+}
+h2{
+  font-weight: bold;
+}
