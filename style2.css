@@ -1,0 +1,12 @@
+body {
+  color:green;
+  background:#F0FFF0;
+}
+hr{
+  height: 1px;
+  border: none;
+  background-color:#6B8E23;
+}
+ul{
+  list-style-type: square;
+}
