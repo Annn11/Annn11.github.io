@@ -1,0 +1,54 @@
+img {
+  width: 50px;
+}
+#face {
+  width: 400px;
+}
+#eyes3 {
+  width: 200px;
+  position: absolute;
+  top: 200px;
+  left: 100px;
+}
+#mouth1 {
+width: 200px;
+  position: absolute;
+  top: 300px;
+  left: 100px;
+}
+#nose3 {
+width: 100px;
+  position: absolute;
+  top: 220px;
+  left: 150px;
+}
+#crown {
+  width: 300px;
+  position: absolute;
+  top: 30px;
+  left: 50px;
+}
+#ears2 {
+  width: 450px;
+  position: absolute;
+  top: 200px;
+  left: -20px;
+}
+#sunglasses {
+width: 300px;
+  position: absolute;
+  top: 200px;
+  left: 60px;
+}
+#bird{
+width: 100px;
+  position: absolute;
+  top: 20px;
+  left: 100px;
+}
+#bowtie {
+width: 100px;
+  position: absolute;
+  top: 370px;
+  left: 150px;
+}
