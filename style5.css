@@ -1,0 +1,63 @@
+body {
+   background: white;
+}
+
+.sticker {
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  margin: 5px;
+}
+#coding{
+  font-size: 40pt;
+  font-weight: bold;
+  font-family: "Courier New";
+  background: linear-gradient(pink, red);
+  padding: 50px 30px;
+  border-radius: 20px;
+}
+#web{
+  font-size: 40pt;
+  font-weight: bold;
+  font-family: "Impact";
+  text-shadow:1px 1px grey;
+  background: radial-gradient(#ADD8E6,#87CEFA,#4682B4);
+  padding:60px 20px;
+  border-radius:10px;
+}
+#robot{
+  font-size: 40pt;
+  font-weight: bold;
+  font-family: "Arial";
+  text-shadow:1px 1px grey;
+  background: radial-gradient(#FFFFE0,#F5DEB3,#DEB887);
+  padding:60px 20px;
+  border-radius:5px;
+}
+#hi{
+  font-size: 40pt;
+  font-weight: bold;
+  font-family: "Courier";
+  text-shadow:1px 1px grey;
+  background: linear-gradient(#F0FFF0,#00FA9A,#32CD32	);
+  padding:60px 20px;
+  border-radius:2px;
+}
+#robott{
+  font-size: 40pt;
+  font-weight: bold;
+  font-family: "Times";
+  text-shadow:1px 1px grey;
+  background: linear-gradient(to bottom left, #FFA07A,#FF7F50,#FF6347);
+  padding:60px 20px;
+  border:10px dashed black;
+  outline-offset:2px;
+  outline: 4px solid crimson;
+  position: relative;
+}
+#firetext{
+  position: absolute;
+  left: 3px;
+  bottom: 10px;
+  transform: rotate(-11deg);
+}
